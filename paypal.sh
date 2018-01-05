@@ -6,9 +6,9 @@
 
 #set -x
 cat <<EOF
-                 - VALIDATOR PayPal -
-           [+]user.rahim@gmail.com[+]
- [+]www.facebook.com/my.profile.co.id[+]
+           - VALIDATOR PayPal -
+        [+]user.rahim@gmail.com[+]
+  [+]www.facebook.com/my.profile.co.id[+]
         
 ===================================================
    Email PayPal Validator By : X-Mr.R4h1M
